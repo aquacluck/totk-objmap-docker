@@ -1,0 +1,5 @@
+- Clone this
+- Place romfs folder at `totk-romfs`
+- Clone `objmap-totk` and `radar-totk`
+- `docker-compose up`
+- Visit `http://localhost:8080` once import is complete
